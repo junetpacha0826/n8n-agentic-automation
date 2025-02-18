@@ -1,4 +1,3 @@
-
 # n8n Agentic Workflow
 
 This repository contains an n8n workflow for automating interactions between OpenAI models, Gmail, and Google Calendar. The workflow allows users to process chat messages, utilize OpenAI's models for planning and decision-making, and perform actions like sending emails or creating calendar events.
@@ -17,7 +16,6 @@ The workflow is designed to process incoming chat messages and perform the follo
 
 <img width="1317" alt="Screenshot 2025-01-25 at 2 11 12 PM" src="https://github.com/user-attachments/assets/99916bca-fe99-4fc6-b279-444795e0ca74" />
 
-
 ## Workflow JSON
 
 You can import this workflow into your n8n instance by using the provided `workflow.json` file.
@@ -25,8 +23,9 @@ You can import this workflow into your n8n instance by using the provided `workf
 ### Importing the Workflow
 
 1. Clone this repository:
+
    ```bash
-   git clone https://github.com/oleksissuper/n8n-agentic-workflow.git
+   git clone https://github.com/yourusername/n8n-agentic-automation.git
    ```
 
 2. Navigate to your n8n instance.
@@ -66,4 +65,3 @@ You can import this workflow into your n8n instance by using the provided `workf
 ## Contributing
 
 If you have ideas for improving this workflow or would like to contribute, feel free to submit a pull request or open an issue.
-
